@@ -10,7 +10,7 @@ HOW TO USE:
 <li>Press 'U' to disable/enable rotation</li>
 </ol>
 
-The program has a lot to offer.. Try exploring it yourself!
+<i>Always interesting. Always changing.</i>
 
 ---------------------------
 <p>A University project for Creative Project by CC6</p>
