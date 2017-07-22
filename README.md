@@ -1,17 +1,23 @@
+# Google Galaxy
+[http://www.doc.gold.ac.uk/~tle004/google_galaxy/cover.html](http://www.doc.gold.ac.uk/~tle004/google_galaxy/cover.html)
 
-<h1>WELCOME TO THE GOOGLE GALAXY!</h1>
+January - April 2015
 
+### About
 A fascinating 3D visual experience of the solar system that gets the Google Images API and wrap them around the planets!
 
-HOW TO USE:
-<ol>
-<li>Move mouse to look around</li>
-<li>Press WASDRF to move</li>
-<li>Press 'U' to disable/enable rotation</li>
-</ol>
+### Running the game:
+#### Requirements:
+[Processing](https://processing.org) >= 2.0
 
-<i>Always interesting. Always changing.</i>
+#### Controls:
+Move the mouse to change viewpoints.
 
----------------------------
-<p>A University project for Creative Project by CC6</p>
-<p>January to April 2015</p>
+Use W, A, S, D, R, F keys to move around.
+
+Press 'U' to disable/enable rotation.
+
+-------
+Creative Project
+
+Goldsmiths, University of London
